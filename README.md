@@ -17,7 +17,7 @@ Recently, I have been focusing on improving system performance and reliability b
 ## 🔧 Technical Skills
 
 **Programming Languages**
-Python • Rust • C++ • SQL
+Python • C# • Rust • C++ • SQL
 
 **Computer Vision / AI**
 OpenCV • OpenVINO • YOLO-style detection • Face detection & authentication • Multi-camera systems
